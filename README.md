@@ -1,10 +1,12 @@
-# Nuxt 3 Minimal Starter
+# **E-Commerce Webshop Project with Vue, Nuxt and Pinia**
 
-## **E-Commerce Webshop Project**
+### Quickstart
+
+`npm/yarn install` > `npm/yarn dev`
 
 ### **Introduction**
 
-This project is an educational exercise designed to deepen my understanding of modern front-end development frameworks, specifically Vue.js, Nuxt.js, and Pinia. The goal is to create a fully-functional e-commerce webshop that simulates real-world application scenarios, providing hands-on experience with a wide array of technologies and best practices.
+This project is an educational exercise designed to deepen my understanding of modern front-end development frameworks, specifically **Vue.js**, Nuxt.js, and Pinia. The goal is to create a fully-functional e-commerce webshop that simulates real-world application scenarios, providing hands-on experience with a wide array of technologies and best practices.
 
 ### **Scope**
 
