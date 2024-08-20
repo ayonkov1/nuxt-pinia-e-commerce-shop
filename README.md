@@ -18,9 +18,9 @@ The project covers the entire development lifecycle, from planning and design to
 2. **Initialize Nuxt.js Project** ✅
 3. **Set Up Version Control (e.g., Git)** ✅
 4. **Install Required Dependencies (Nuxt.js, Vue.js, etc.)** ✅
-5. **Configure Linting and Prettier** ❌
-6. **Set Up Continuous Integration/Continuous Deployment (CI/CD) Pipeline** ❌
-7. **Design the Directory Structure** ❌
+5. **Configure Linting and Prettier** ✅
+6. **Set Up Continuous Integration/Continuous Deployment (CI/CD) Pipeline** ✅
+7. **Design the Directory Structure** ✅
 8. **Create Global Layout Components** ❌
 9. **Develop Home Page** ❌
 10. **Develop Product Listing Page** ❌

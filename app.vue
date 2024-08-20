@@ -1,9 +1,10 @@
-<script lang="ts">
-import base from '/assets/base.css'
-</script>
+<!-- eslint-disable @typescript-eslint/no-unused-vars -->
+<script lang="ts"></script>
 
 <template>
-  <div>
-    <h1 class="text-3xl font-bold underline">Hello world!</h1>
-  </div>
+  <NuxtLayout>
+    <div class="dark:bg-black min-h-screen dark:text-white">
+      <NuxtPage />
+    </div>
+  </NuxtLayout>
 </template>
